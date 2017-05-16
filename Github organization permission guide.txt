@@ -9,3 +9,5 @@ https://help.github.com/articles/permission-levels-for-an-organization/
 
 <change a person's role>
 https://help.github.com/articles/changing-a-person-s-role-to-owner/
+
+*比较重要的就是，保护资料的安全，工程的修改和删除，都是发布者自己 最好还能实现一个发布者允许临时权限 这样你可以把自己的工程的删除权限赋值给别人，让别人替你操作
