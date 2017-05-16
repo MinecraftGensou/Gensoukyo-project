@@ -1,0 +1,11 @@
+<Access permissions on GitHub>
+https://help.github.com/articles/access-permissions-on-github/
+
+<Repository permission levels for an organization>
+https://help.github.com/articles/repository-permission-levels-for-an-organization/
+
+<Permission levels for an organization>
+https://help.github.com/articles/permission-levels-for-an-organization/
+
+<change a person's role>
+https://help.github.com/articles/changing-a-person-s-role-to-owner/
